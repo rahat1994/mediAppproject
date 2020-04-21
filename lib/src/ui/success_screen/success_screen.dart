@@ -32,7 +32,7 @@ class _SuccessScreenState extends State<SuccessScreen> {
         child: Container(
           child: Center(
             child: FlareActor(
-              "assets/animations/Success Check.flr",
+              "assets/animations/Success_Check.flr",
               alignment: Alignment.center,
               fit: BoxFit.contain,
               animation: "Untitled",

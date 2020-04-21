@@ -1,4 +1,4 @@
-name: medicine_reminder
+name: MediApp
 description: A new Flutter project.
 
 # The following defines the version and build number for your application.
@@ -79,7 +79,7 @@ flutter:
         - asset: assets/fonts/ic/ic_medicine.ttf
     - family: Angel
       fonts:
-        - asset: assets/fonts/neu/Angel Signature.ttf    
+        - asset: assets/fonts/neu/Angel_Signature.ttf
         
         
   #       - asset: fonts/Schyler-Italic.ttf

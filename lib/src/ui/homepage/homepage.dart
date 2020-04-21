@@ -90,9 +90,9 @@ class TopContainer extends StatelessWidget {
               bottom: 10,
             ),
             child: Text(
-              "Mediminder",
+              "Medi-App",
               style: TextStyle(
-                fontFamily: "Angel",
+//                fontFamily: "Angel",
                 fontSize: 64,
                 color: Colors.white,
               ),
